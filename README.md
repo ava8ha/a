@@ -1,7 +1,7 @@
 # Lern-Bericht
 Gruppe 0, Ava
 
-## Bauernzopf
+### Bauernzopf
 
 Lernen einen Zopf zu flechten welcher am Kopf sitzt und vom Ansatz her herunterläuft.
 
